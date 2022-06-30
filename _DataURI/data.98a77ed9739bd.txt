@@ -1,0 +1,1 @@
+chrome-extension://amnaimdfodceanepoanccendipbjemkp/notificationsContentScript.bundle.js
